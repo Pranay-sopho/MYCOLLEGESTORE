@@ -337,7 +337,7 @@ main .price {
 .descriptionp .descriptionh, .seller .sellerh, .date .dateh , .collegep .collegeh {
     font-weight: 500;
     width: 150px;
-    padding-right: 10px;
+    padding-right: 35px;
     color: white;
     float: left;
 }

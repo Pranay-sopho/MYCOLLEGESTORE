@@ -12,7 +12,7 @@
 		echo '<span class="price">&#8377;'.$item["price"]. '</span>';
 	echo '<div class="descriptionp"><div class="descriptionh"><span><span>Description</span></span></div><div>';
 	echo '<div id="descrip" class="descriptionn"><span>' .$item["desc"]. '</span></div></div></div>';
-	echo '<div class="seller"><div class="sellerh"><span><span>Contact Info</span></span></div><div class="sellern"><span><span>'.$item["contact"].'</span></span></div><div>';
+	echo '<div class="seller"><div class="sellerh"><span><span>Contact</span></span></div><div class="sellern"><span><span>'.$item["contact"].'</span></span></div><div>';
 	echo '<div id="sellerName" class="sellero"><a href="index.php?sid=' .$item["uid"]. '"><span>Other Items From Seller</span></a></div></div></div>';
 	echo '<div class="date"><div class="dateh"><span><span>Posted</span></span></div><div><div id="datep" class="daten"><span>'.$item["date"].'</span></div></div></div>';
 	echo '<div class="collegep"><div class="collegeh"><span><span>College</span></span></div><div><div class="collegen"><span>' .$item["cname"]. '</span></div></div></div></main>';

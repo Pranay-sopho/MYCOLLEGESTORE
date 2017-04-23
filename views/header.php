@@ -8,7 +8,7 @@
             <?php endif ?>
         
         <meta charset="utf-8">
-	    <meta name="description" content="MyCollegeStore">
+	    <meta name="description" content="CollegeStore">
 	    <link href="https://fonts.googleapis.com/css?family=Molengo|Signika+Negative" rel="stylesheet">
 	    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 	    <link href="https://fonts.googleapis.com/css?family=Molengo" rel="stylesheet"> 
