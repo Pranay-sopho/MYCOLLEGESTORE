@@ -41,7 +41,7 @@
             }
             
             echo '<form method="POST" action="delete.php">';
-            echo '<button id="remove" name="delete" class="delete" value=' .$items[$i]["id"]. '>Remove Item</button>';
+            echo '<button id="remove" name="delete" class="delete" value=' .$items[$j]["id"]. '>Remove Item</button>';
             echo '</form>';
             echo '</div>';
             echo '</div>';
